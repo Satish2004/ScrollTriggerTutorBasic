@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #000;
+}
+.div1,
+.div2 {
+  height: 100vh;
+}
+.div1 {
+  background: rgb(7, 189, 156);
+}
+.div2 {
+  background: rgb(217, 203, 4);
+}
+.square {
+  width: 150px;
+  height: 150px;
+  background: #b60c0c;
+  /* position: relative; */
+  margin: 2%;
+  position: absolute;
+}
+

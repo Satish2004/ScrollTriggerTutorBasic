@@ -1,0 +1,2 @@
+First, we will learn how to link GSAP using a CDN. Then, we will learn how to use ScrollTrigger to animate from a specific div, meaning how to animate from a particular point. Now, we will learn about 
+start and end points.
